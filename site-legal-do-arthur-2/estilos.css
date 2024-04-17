@@ -1,0 +1,29 @@
+<style>
+h3 {
+* background-color: black;
+    color: antiquewhite;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+background-color: black;
+color: antiquewhite;
+}
+h1 {
+text-align: center;
+background-color:black;
+display:inline-block;
+color:antiquewhite;
+}
+
+h2 {background-color: black;
+    color:antiquewhite;
+text-align: center;
+}
+img{margin:0;
+     ;}
+
+</style>
