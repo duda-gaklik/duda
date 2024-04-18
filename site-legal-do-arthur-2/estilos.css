@@ -1,29 +1,12 @@
-<style>
-h3 {
-* background-color: black;
-    color: antiquewhite;
+div {
+    margin-left:900px;
+    background-color: rgb(24, 157, 235);
 }
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+h1{
+    font-size: 40px;
+    text-align: center;
 }
-body {
-background-color: black;
-color: antiquewhite;
-}
-h1 {
-text-align: center;
-background-color:black;
-display:inline-block;
-color:antiquewhite;
-}
+span{color:darkgray;}
 
-h2 {background-color: black;
-    color:antiquewhite;
-text-align: center;
-}
-img{margin:0;
-     ;}
-
-</style>
+.container{display: flex;}
+.content{flex: 1 ;}
